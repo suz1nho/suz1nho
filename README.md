@@ -1,33 +1,36 @@
-<h1 align="center">👋 Olá! Eu sou o João Pedro</h1>
+# João Pedro Soares
 
-<p align="center">
-  Estudante de Informática para Web no Instituto Federal Goiano - Campus Urutaí<br/>
-  Desenvolvedor Full Stack em formação 🚀
-</p>
-
----
-
-### 💡 Sobre mim
-- 🎓 Estudante do 3º ano do curso técnico em Informática para Web
-- 🛠️ Participo de diversos projetos acadêmicos e pessoais
-- 💻 Apaixonado por programação, tecnologia e aprendizado contínuo
+**Estudante Técnico em Informática para Web**  
+Instituto Federal Goiano – Campus Urutaí  
+Desenvolvedor em formação, com foco em desenvolvimento web e boas práticas de programação.
 
 ---
 
-### 🧠 Tecnologias que utilizo
+##  Sobre
+
+Atualmente curso o 3º ano do Técnico em Informática para Web pelo Instituto Federal Goiano – Campus Urutaí. Ao longo da formação, participei de diversos projetos acadêmicos e pessoais que fortaleceram minha atuação tanto no front-end quanto no back-end.
+
+Tenho experiência com tecnologias web modernas e busco constantemente aprimorar meu conhecimento técnico e minha capacidade de construir soluções robustas, responsivas e bem estruturadas.
+
+---
+
+##  Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
 
-### 📫 Contato
-- ✉️ soaresjoaopedro452@gmail.com
-- 🌐 [linkedin.com/in/joaopedro](https://linkedin.com/in/joao-pedro-soares-75a203205)
+## 📫 Contato
+
+- Email: soaresjoaopedro452@gmail.com  
+- LinkedIn: [linkedin.com/in/joaopedro](https://linkedin.com/in/joao-pedro-soares-75a203205)
+
+---
