@@ -28,13 +28,6 @@
 
 ---
 
-### 📂 Projetos em destaque
-- 🔗 [Sistema de Gerenciamento de Biblioteca](#)
-- 🔗 [Portfólio Pessoal Responsivo](#)
-- 🔗 [Site Institucional de Evento](#)
-
----
-
 ### 📫 Contato
 - ✉️ soaresjoaopedro452@gmail.com
 - 🌐 [linkedin.com/in/joaopedro](https://linkedin.com/in/joao-pedro-soares-75a203205)
